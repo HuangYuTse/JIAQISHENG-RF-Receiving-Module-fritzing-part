@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20.1mm"
+   height="20mm"
+   viewBox="0 0 20.1 20"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Weiba_2Way_pcb.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8cffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6687159"
+     inkscape:cx="161.18542"
+     inkscape:cy="-44.713207"
+     inkscape:document-units="mm"
+     inkscape:current-layer="silkscreen"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     objecttolerance="19.3"
+     gridtolerance="12.9"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1269"
+       units="mm"
+       spacingx="2.54"
+       spacingy="2.54"
+       originx="-106.58706"
+       originy="-93.949407" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-106.58708,-93.949413)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="silkscreen"
+       inkscape:label="Layer 4">
+      <text
+         xml:space="preserve"
+         style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0;stroke-width:0.264583"
+         x="146.04489"
+         y="104.4539"
+         id="text1063"><tspan
+           sodipodi:role="line"
+           id="tspan1061"
+           x="146.04489"
+           y="104.4539"
+           style="stroke-width:0.264583" /></text>
+      <ellipse
+         style="opacity:0.998;fill:#121d26;fill-opacity:1;stroke:none;stroke-width:1.3649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="ellipse1126"
+         cx="109.97317"
+         cy="112.56356"
+         rx="0.38436154"
+         ry="0.38430727" />
+      <ellipse
+         style="opacity:0.998;fill:#121d26;fill-opacity:1;stroke:none;stroke-width:1.3649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="ellipse1120"
+         cx="120.133"
+         cy="112.56356"
+         rx="0.38436154"
+         ry="0.38430727" />
+      <ellipse
+         style="opacity:0.998;fill:#121d26;fill-opacity:1;stroke:none;stroke-width:1.3649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="ellipse1114"
+         cx="112.51311"
+         cy="112.56356"
+         rx="0.38436154"
+         ry="0.38430727" />
+      <ellipse
+         style="opacity:0.998;fill:#121d26;fill-opacity:1;stroke:none;stroke-width:1.3649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="ellipse1108"
+         cx="115.05307"
+         cy="112.56356"
+         rx="0.38436154"
+         ry="0.38430727" />
+      <ellipse
+         style="opacity:0.998;fill:#121d26;fill-opacity:1;stroke:none;stroke-width:1.3649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle1574-9"
+         cx="117.59304"
+         cy="112.56356"
+         rx="0.38436154"
+         ry="0.38430727" />
+      <rect
+         style="opacity:0.998;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect879"
+         width="20"
+         height="19.9"
+         x="106.63708"
+         y="93.999413"
+         ry="0.080560625"
+         rx="0.080560625" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="copper1"
+       inkscape:label="Layer 2">
+      <g
+         inkscape:groupmode="layer"
+         id="copper0"
+         inkscape:label="Layer 3">
+        <ellipse
+           style="opacity:0.998;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.71213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle1572"
+           cx="117.59304"
+           cy="112.56356"
+           rx="0.75"
+           ry="0.74989408" />
+        <ellipse
+           style="opacity:0.998;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.71213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="ellipse1106"
+           cx="115.05307"
+           cy="112.56356"
+           rx="0.75"
+           ry="0.74989408" />
+        <ellipse
+           style="opacity:0.998;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.71213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="ellipse1112"
+           cx="112.51311"
+           cy="112.56356"
+           rx="0.75"
+           ry="0.74989408" />
+        <ellipse
+           style="opacity:0.998;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.71213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="ellipse1118"
+           cx="120.133"
+           cy="112.56356"
+           rx="0.75"
+           ry="0.74989408" />
+        <rect
+           style="fill:#f7bd13;fill-opacity:1;stroke-width:0.499999;paint-order:markers fill stroke"
+           id="rect1162"
+           width="1.5"
+           height="1.5"
+           x="109.22316"
+           y="111.81356"
+           rx="2.454148e-16"
+           ry="2.456188e-16" />
+      </g>
+    </g>
+  </g>
+</svg>
