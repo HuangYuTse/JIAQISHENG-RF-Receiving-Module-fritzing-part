@@ -3,8 +3,8 @@
 ## 喜歡請給個星星吧Orz
 
 This is JIAQISHENG RF Receiving Module fritzing part  
-![圖例](./JIAQISHENG_RF_ Receiving_Module.svg)  
-![圖例](./JIAQISHENG RF  Receiving Module.jpg)  
+![圖例](./JIAQISHENG_RF_Receiving_Module.svg)  
+  
 你可以自由使用這個fritzing part  
 You are free to use this fritzing part(by giving me a star XD)  
 
@@ -21,6 +21,7 @@ Producer Company Website: <https://world.taobao.com/dianpu/113647028.htm?spm=a21
 The pcb part of this picture is for reference only, and I am not responsible for the loss caused by errors in the production of pcb  
 pcb部分建議使用正規電路設計軟體設計  
 It is recommended to use circuit design software to design the pcb part  
+![圖例](./JIAQISHENG_RF_Receiving_Module.jpg)
 
 ## MIT License
 
